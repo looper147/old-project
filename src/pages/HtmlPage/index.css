@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+fieldset {
+  border-style: dashed;
+  border-color: red;
+  border: 1px red;
+}
+table {
+  text-align: center;
+  width: 50%;
+}
+/*coloring html table tags */
+.tags {
+  color: blue;
+}
